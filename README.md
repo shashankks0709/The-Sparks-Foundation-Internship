@@ -5,7 +5,7 @@ This repository contains all the tasks for the Data Science and Analytics Intern
 
 The Sparks Foundation mission is to inspire students, help them innovate, and let them integrate to build the next generation humankind. To inspire, motivate, and encourage students to learn, create, and help build a better society. To teach new ways of thinking, to innovate and solve the problems on their own. We help the students to integrate and help each other, learn from each other, and do well together.
 
-# Their Vision Statement : 
+## Their Vision Statement : 
 A world of enabled and connected little minds, building future.
 Our Mission Statement To inspire students, help them innovate and let them integrate to build the next generation humankind.
 
@@ -16,7 +16,7 @@ Our Mission Statement To inspire students, help them innovate and let them integ
 
 ✔ Internship Type - Work from Home
 
-# Task-1 : Prediction using Supervised ML (Level - Beginner)
+## Task-1 : Prediction using Supervised ML (Level - Beginner)
 Please click on the images on right side to view my solution.
 
 Predict the percentage of marks of an student based on the number of study hours.
@@ -29,7 +29,7 @@ You can use R, Python, SAS Enterprise Miner or any other tool.
 
 What will be predicted score if a student studies for 9.25 hrs/ day?
 
-# Task-2:  Exploratory Data Analysis-Terrorism(Level- Intermediate)
+## Task-2:  Exploratory Data Analysis-Terrorism(Level- Intermediate)
 Perform 'Exploratory Data Analysis' on dataset 'Indian Premier League'
 
 As a sports analysts, find out the most successful teams, players and factors
@@ -43,7 +43,7 @@ Excel/SAP/SAS)
 Dataset: https://bit.ly/34SRn3b
 
 
-# Task-3 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
+## Task-3 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
 Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
 
 Stock to analyze and predict SENSEX (S&P BSE SENSEX)
