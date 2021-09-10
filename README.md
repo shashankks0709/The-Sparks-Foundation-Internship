@@ -44,6 +44,8 @@ Excel/SAP/SAS)
 
 Dataset: https://bit.ly/34SRn3b
 
+Github Link:https://github.com/shashankks0709/The-Sparks-Foundation-Internship/blob/main/TASK2%40GRIP.ipynb
+
 
 ## Task-3 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
 Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
