@@ -58,6 +58,8 @@ Download textual (news) data from https://bit.ly/36fFPI6
 
 Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
 
+Github Link: https://github.com/shashankks0709/The-Sparks-Foundation-Internship/blob/main/TASK3%40GRIP.ipynb
+
 ✔ Intern Details:
 
 Name : SHASHANK K S
