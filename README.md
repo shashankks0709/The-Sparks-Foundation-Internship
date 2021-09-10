@@ -30,6 +30,8 @@ What will be predicted score if a student studies for 9.25 hrs/ day?
 
 Github Link : https://github.com/shashankks0709/The-Sparks-Foundation-Internship/blob/main/TASK1%40GRIP.ipynb
 
+Youtube Link : https://youtu.be/N2ND8MoSxlQ
+
 ## Task-2:  Exploratory Data Analysis-Terrorism(Level- Intermediate)
 Perform 'Exploratory Data Analysis' on dataset 'Indian Premier League'
 
@@ -45,6 +47,7 @@ Dataset: https://bit.ly/34SRn3b
 
 Github Link:https://github.com/shashankks0709/The-Sparks-Foundation-Internship/blob/main/TASK2%40GRIP.ipynb
 
+Youtube Link :https://youtu.be/N0EdW3gNFM0
 
 ## Task-3 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
 Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
@@ -58,6 +61,8 @@ Download textual (news) data from https://bit.ly/36fFPI6
 Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
 
 Github Link: https://github.com/shashankks0709/The-Sparks-Foundation-Internship/blob/main/TASK3%40GRIP.ipynb
+
+Youtube Link :https://youtu.be/k1y15s3ydZk
 
 ✔ Intern Details:
 
