@@ -17,7 +17,6 @@ Our Mission Statement To inspire students, help them innovate and let them integ
 ✔ Internship Type - Work from Home
 
 ## Task-1 : Prediction using Supervised ML (Level - Beginner)
-Please click on the images on right side to view my solution.
 
 Predict the percentage of marks of an student based on the number of study hours.
 
