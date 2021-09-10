@@ -29,6 +29,8 @@ You can use R, Python, SAS Enterprise Miner or any other tool.
 
 What will be predicted score if a student studies for 9.25 hrs/ day?
 
+Github Link : https://github.com/shashankks0709/The-Sparks-Foundation-Internship/blob/main/TASK1%40GRIP.ipynb
+
 ## Task-2:  Exploratory Data Analysis-Terrorism(Level- Intermediate)
 Perform 'Exploratory Data Analysis' on dataset 'Indian Premier League'
 
