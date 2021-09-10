@@ -11,7 +11,9 @@ Our Mission Statement To inspire students, help them innovate and let them integ
 
 
 ✔ Internship Category - Data Science and Business Analytics
+
 ✔ Internship Duration - 1 Month ( September-2021 )
+
 ✔ Internship Type - Work from Home
 
 # Task-1 : Prediction using Supervised ML (Level - Beginner)
@@ -43,7 +45,15 @@ Dataset: https://bit.ly/34SRn3b
 
 # Task-3 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
 Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
+
 Stock to analyze and predict SENSEX (S&P BSE SENSEX)
+
 Download historical stock prices from finance.yahoo.com
+
 Download textual (news) data from https://bit.ly/36fFPI6
+
 Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
+
+✔ Intern Details:
+Name : SHASHANK K S
+Emailid: shashankreddy0709@gmail.com
