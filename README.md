@@ -24,10 +24,6 @@ What will be predicted score if a student studies for 9.25 hrs/ day?
 
 
 # Task-3 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
-Please click on the images on right side to view my solution.
-
-NOTE : If you face any issue over dataset then please refer to the thread of Issue #2.
-
 Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
 Stock to analyze and predict SENSEX (S&P BSE SENSEX)
 Download historical stock prices from finance.yahoo.com
