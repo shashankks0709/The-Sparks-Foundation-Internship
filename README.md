@@ -55,5 +55,7 @@ Download textual (news) data from https://bit.ly/36fFPI6
 Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
 
 ✔ Intern Details:
+
 Name : SHASHANK K S
+
 Emailid: shashankreddy0709@gmail.com
