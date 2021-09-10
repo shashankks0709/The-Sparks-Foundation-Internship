@@ -1,11 +1,13 @@
 # The-Sparks-Foundation-Internship
 This repository contains all the tasks for the Data Science and Analytics Intern at The Sparks Foundation #GRIPSEPTEMBER21
-##About The Sparks Foundation
 
+## About The Sparks Foundation
 
 The Sparks Foundation mission is to inspire students, help them innovate, and let them integrate to build the next generation humankind. To inspire, motivate, and encourage students to learn, create, and help build a better society. To teach new ways of thinking, to innovate and solve the problems on their own. We help the students to integrate and help each other, learn from each other, and do well together.
 
-Their Vision Statement : A world of enabled and connected little minds, building future. Our Mission Statement To inspire students, help them innovate and let them integrate to build the next generation humankind.
+# Their Vision Statement : 
+A world of enabled and connected little minds, building future.
+Our Mission Statement To inspire students, help them innovate and let them integrate to build the next generation humankind.
 
 
 ✔ Internship Category - Data Science and Business Analytics
@@ -16,10 +18,15 @@ Their Vision Statement : A world of enabled and connected little minds, building
 Please click on the images on right side to view my solution.
 
 Predict the percentage of marks of an student based on the number of study hours.
+
 This is a simple linear regression task as it involves just 2 variables.
+
 Data can be found at http://bit.ly/w
+
 You can use R, Python, SAS Enterprise Miner or any other tool.
+
 What will be predicted score if a student studies for 9.25 hrs/ day?
+
 # Task-2:  Exploratory Data Analysis-Terrorism(Level- Intermediate)
 Perform 'Exploratory Data Analysis' on dataset 'Indian Premier League'
 
